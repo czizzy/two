@@ -1,0 +1,25 @@
+{
+  "name": "two",
+  "version": "1.0.2",
+  "description": "two",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "czizzy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czizzy/two.git"
+  },
+  "keywords": [
+    "two"
+  ],
+  "bugs": {
+    "url": "https://github.com/czizzy/two/issues"
+  },
+  "homepage": "https://github.com/czizzy/two#readme"
+}
