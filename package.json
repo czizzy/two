@@ -1,6 +1,6 @@
 {
   "name": "two",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "two",
   "main": "index.js",
   "files": [
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "node test/test.js"
   },
-  "author": "czizzy",
+  "author": "Izzy Chen <czizzychen@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
