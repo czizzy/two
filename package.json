@@ -1,6 +1,6 @@
 {
   "name": "two",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "two",
   "main": "index.js",
   "files": [
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/czizzy/two/issues"
   },
-  "homepage": "https://github.com/czizzy/two#readme"
+  "homepage": "https://github.com/czizzy/two#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
