@@ -1,6 +1,6 @@
 {
   "name": "two",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "two",
   "main": "index.js",
   "files": [
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/czizzy/two.git"
+    "url": "https://github.com/czizzy/two"
   },
   "keywords": [
     "two"
