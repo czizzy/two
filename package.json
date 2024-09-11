@@ -24,6 +24,13 @@
   },
   "homepage": "https://github.com/czizzy/two#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6",
+    "none": "^1.0.0",
+    "the-number-one": "^1.0.1",
+    "five": "^0.8.0",
+    "meaning-of-life": "^1.0.0",
+    "is-equal-to": "^1.1.2"
   }
 }
